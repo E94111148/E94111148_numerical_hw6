@@ -1,6 +1,6 @@
 import numpy as np
 
-# Define matrix A
+# matrix A
 A = np.array([
     [4, 1, -1, 0],
     [1, 3, -1, 0],

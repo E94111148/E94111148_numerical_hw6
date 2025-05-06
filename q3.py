@@ -1,6 +1,6 @@
 import numpy as np
 
-# Define the tri-diagonal system
+# the tri-diagonal system
 a = np.array([0, -1, -1, -1], dtype=float)       # sub-diagonal (starts from index 1)
 b_diag = np.array([3, 3, 3, 3], dtype=float)     # main diagonal
 c = np.array([-1, -1, -1, 0], dtype=float)       # super-diagonal (ends at index n-2)

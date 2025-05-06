@@ -1,13 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  6 20:15:32 2025
-
-@author: jerry
-"""
-
 import numpy as np
 
-# 原始矩陣 A 和向量 b
+#matrix A & vector b
 A = np.array([
     [1.19, 2.11, -100, 1],
     [14.2, -0.112, 12.2, -1],
